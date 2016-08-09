@@ -1,6 +1,6 @@
 # Parallella Experimental Cluster Case Kit
 
-![A completed PACK-02 case](/images/18-actuallyCompletedAssembly.JPG)
+![A completed PACK-02 case](/images/00-completedUnit.JPG)
 
 The PACK-02 kit is a simple but elegant case based on the "[sick of beige](http://dangerousprototypes.com/docs/Sick_of_Beige_basic_case_v1)" design and is intended for experimentation with the Parallella platform, along with multiple Porcupine breakout boards and eLink cables. It can be bought from [Ground Electronics](http://groundelectronics.com).
 
